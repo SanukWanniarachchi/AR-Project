@@ -1,0 +1,12 @@
+Little Reef procedural fish model and its embedded painted textures
+
+Original procedural geometry and textures generated with AI assistance for this group project.
+Source: model-source/fish-builder.js and js/core.js.
+This model does not contain a downloaded third-party fish or the workshop duck.
+
+CC0 1.0 Universal dedication
+To the extent possible under law, the contributors waive copyright and related rights in this original model and its embedded textures under CC0 1.0 Universal.
+Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The modeling member should record their own changes honestly in docs/MODEL-CREDITS.md.
+This dedication covers the original fish asset and textures, not A-Frame, AR.js, Three.js or third-party marker artwork.
